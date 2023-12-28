@@ -1,0 +1,24 @@
+   0 >date.txt
+   1 echo "helol" >file.txt
+   2 ls -
+   3 ls -l
+   4 date >> file.txt
+   5 cat file.txt
+   6 cat hello.js >> file.txt
+   7 cat file.txt
+   8 cat /etx/group
+   9 cat /etc/group
+  10 cat /etc/group |wc
+  11 wc --help
+  12 cat /etc/group |wc -l
+  13 cat /etc/group |wc -l >>file.txt
+  14 cat /etc/group | head
+  15 cat /etc/group | tail
+  16 cat /etc/group | tail -3
+  17 cat /etc/group | head -3
+  18 cat /etc/group | head -2
+  19 cat /etc/group | tail -2
+  20 cat /etc/group | tail -2 | head -1
+  21 df
+  22 df - h
+  23 df -h | head -2
